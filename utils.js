@@ -9,3 +9,6 @@ function multiply(a,b){
 function umur(){
     
 }
+
+function div(){
+}
